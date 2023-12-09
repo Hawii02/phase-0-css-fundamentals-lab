@@ -3,3 +3,23 @@ body {
   height: 100%;
   margin: 0;
 }
+h1{
+  text-align: center;
+}
+#links{
+  text-align: center;
+  color: black;
+  background-color: grey;
+}
+#featured-property{
+  text-align: center
+}
+#details{
+  float: left;
+  background: red;
+  text-align: center;
+  width: 25%;
+  height: 200 px;
+}
+
+
